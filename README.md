@@ -1,1 +1,1 @@
-# ECE-Python-Programming-12-Weeks
+# Python-Programming-12-Weeks
